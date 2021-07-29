@@ -1,4 +1,4 @@
-### Olá eu sou arthur...👋
+### Olá eu sou o arthur...👋
  ![](https://komarev.com/ghpvc/?username=arthurk88&color=blue&style=flat&label=Visitas+ao+perfil)
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurk88&theme=monokai)
@@ -28,25 +28,3 @@
 	<a href=""> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a> 
   </div>
 	<HR>
-		
-		
-		
-		 
-
-	
-
-<!--
-
- Aqui estão algumas idéias para você começar:
-
-- 🔭 Atualmente estou trabalhando em ... 
-- 🌱 Atualmente estou aprendendo ...  
-- 👯 Estou procurando colaborar em ... 
-- 🤔 Estou procurando ajuda com ... 
-- 💬 Pergunte-me sobre ... 
-- 📫 Como chegar até mim: ... 
-- 😄 Pronomes: ...  
-- ⚡ Curiosidade: ...
-
-
--->
