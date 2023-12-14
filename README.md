@@ -3,7 +3,7 @@
 # Olá eu sou o arthur...👋
  ![](https://komarev.com/ghpvc/?username=arthurk88&color=blue&style=flat&label=Visitas+ao+perfil)
  
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurk88&theme=monokai)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurk88&theme=monokai)-->
  <!--<buttom>Commit Detalhado</buttom>-->
 </div>
 <div align="center">
